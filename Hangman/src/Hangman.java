@@ -12,7 +12,7 @@ public class Hangman
    
    // constructors
    public Hangman() {
-		String stars; // for use in creating knownSoFar
+		String stars; 
 
 		allLetters = new StringBuffer( "ABCDEFGHIJKLMNOPQRSTUVWXYZ");
 		maxAllowedIncorrectTries = 6;
