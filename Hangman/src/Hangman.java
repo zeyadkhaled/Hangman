@@ -104,7 +104,7 @@ public class Hangman
    
    /**
     * Gets number of incorrect tries
-    * @return numberOfIncorrectTries
+    * @return numberOfIncorrectTrie
     */ 
    public int getNumOfIncorrectTries() {
       return numberOfIncorrectTries;
